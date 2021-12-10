@@ -1,4 +1,3 @@
-# Python-Ogreniyorum
+# Merhaba 👋, Ben Engin
 
-Python öğrenirken yazdığım kodları burada yayınlıyorum. 
-Git kullanımımı geliştirmek amacı ile sürekli commit atmaya çalışıyorum.
+Python 🐍 Öğrenirken yazdığım kodları burada yayınlıyorum. Git kullanımımı geliştirmek için elimden geldiğince fazla commit atmaya çalışıyorum.
