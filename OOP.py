@@ -49,7 +49,6 @@ yazilimci.zamyap(3400)
 yazilimci.bilgilerigoster()"""
 
 #Kalıtım
-
 """class Calisan:
     def __init__(self,isim,maas,departman):
         self.isim = isim
@@ -75,7 +74,6 @@ isci.departman_degistir("Haberleşme")
 isci.bilgilerigoster()"""
 
 #Overriding
-
 """class Calisan:
     def __init__(self,isim,maas,departman):
         self.isim = isim
@@ -107,7 +105,6 @@ yonetici.zam_yap(300)
 yonetici.bilgilerigoster()"""
 
 #SuperKeyword
-
 """class Calisan:
     def __init__(self,isim,maas,departman):
         print("Calisan init")
@@ -138,9 +135,8 @@ yonetici = Yonetici("Ali",3600,"Pazarlama",4500)
 yonetici.zam_yap(300)
 yonetici.bilgilerigoster()"""
 
-
+#Kitap Class
 class Kitap():
-
     def __init__(self,isim,yazar,sayfa_sayisi,tur):
         self.isim = isim
         self.yazar = yazar
